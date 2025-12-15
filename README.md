@@ -14,7 +14,7 @@
  2. [Instagram Android](https://github.com/shajon-dev/Instagram-SSL-Pinning-Bypass)
  3. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
  4. [Busniess Suit Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
- 5. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
+ 5. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
  6. [Facebook iOS](https://github.com/shajon-dev/iOS-Facebook-SSL-Pinning-Bypass)
 
 ## 📱 Requirements for iOS Device
