@@ -2,11 +2,11 @@
 📡 Intercept Threads networks traffic on iOS device
 
 ## 📌 Latest Tested App Version
-- 🎯 Threads version: **409.1.0.26.161**
+- 🎯 Threads version: **418.1.0.28.75**
 
 ## 🎥 Evidence
 
-![Threads](https://raw.githubusercontent.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass/refs/heads/main/asstes/v409.jpg)
+![Threads](https://raw.githubusercontent.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass/refs/heads/main/image/v418.jpg)
 
 
 ## Other Apps
@@ -31,3 +31,22 @@
     <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
+
+---
+
+## 📜 License
+
+This project is licensed under the  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
+
+You are free to:
+- Share — copy and redistribute the material
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit to the original author (S. SHAJON).
+- NonCommercial — You may not use this project for commercial or professional purposes.
+
+⚠ Commercial or professional use requires prior written permission from the author.
+
+🔗 Full License: https://creativecommons.org/licenses/by-nc/4.0/
