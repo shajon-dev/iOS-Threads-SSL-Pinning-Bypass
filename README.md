@@ -40,7 +40,7 @@
       <td align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
     </tr>
     <tr>
-      <td align="center">390.0.0.26.85</td>
+      <td align="center">395.0.0.28.151</td>
       <td align="center">✅ Bypassed</td>
       <td align="center"><a href="https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass/releases">Download Link</a></td>
     </tr>
