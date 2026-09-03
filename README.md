@@ -10,14 +10,14 @@
 ---
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **443.0.0.25.78**
+- App version: **445.1.0.34.44**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ---
 
 ## 🎥 Evidence
-![Threads iOS](assets/v443.jpg)
+![Threads iOS](assets/v445.jpg)
 
 ---
 
@@ -52,7 +52,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.burbn.barcelona</code></td>
-      <td align="center">443.0.0.25.78</td>
+      <td align="center">445.1.0.34.44</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
